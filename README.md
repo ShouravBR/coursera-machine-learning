@@ -1,4 +1,2 @@
-# Completed Coursera's machine learning assignments
+Completed assignment of [Coursera's ML course](https://www.coursera.org/learn/machine-learning/)
 Most of them are vectorized.
-
-https://www.coursera.org/learn/machine-learning/
