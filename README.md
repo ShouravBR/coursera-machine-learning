@@ -1,2 +1,4 @@
-# Coursera machine learning assignments
-Completed ML from coursera. Here's my finished assignment for others to study (most of them are vectorized).
+# Completed Coursera's machine learning assignments
+Most of them are vectorized.
+
+https://www.coursera.org/learn/machine-learning/
